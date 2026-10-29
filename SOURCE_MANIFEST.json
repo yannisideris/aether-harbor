@@ -1,0 +1,238 @@
+[
+  {
+    "path": "aether_harbor/__init__.py",
+    "sha256": "0819acbca60a6e8ca95f0394b5b869167f96fc1ed48705762558893f39145ec9"
+  },
+  {
+    "path": "aether_harbor/active_situations.py",
+    "sha256": "d83d7b71601d1ce856b0a7dda8965442115e6ae05cdc99b079804138dbdc2aa5"
+  },
+  {
+    "path": "aether_harbor/afflictions.py",
+    "sha256": "a31aa1537310518eb4d9db7b110441bc28b19ee09a6948bc06fc9f2cf84e130e"
+  },
+  {
+    "path": "aether_harbor/app.py",
+    "sha256": "4aa3da1c95a65a16c29ba3faea6e68c6f68507ecb02dcc01d5275eddcc5c10cc"
+  },
+  {
+    "path": "aether_harbor/books.py",
+    "sha256": "ee8b68e24a7b6f7c8b8a7ee4d20d59c75bef45cf4f9f0e4ab247c7549ef2acaf"
+  },
+  {
+    "path": "aether_harbor/canon.py",
+    "sha256": "e87be1182a797591d8908d55c10f07217c8eb165750c9701d4b17357e39acfbf"
+  },
+  {
+    "path": "aether_harbor/cascading_model.py",
+    "sha256": "e25ac2789696b159fe26fd754b3974af4ff28182aa9d44b424cd0eff10be50c0"
+  },
+  {
+    "path": "aether_harbor/celestial_spheres.py",
+    "sha256": "fb98599e523c892dc95b14ae277f22f9a7205d852a14cd3433783e9f5f9b29c4"
+  },
+  {
+    "path": "aether_harbor/cloud_saves.py",
+    "sha256": "cffefbd6fcac6fb3567ad9357d56b77c56dd9efc2c8a9a77e40eab740a900d74"
+  },
+  {
+    "path": "aether_harbor/economy.py",
+    "sha256": "3cba2b69d277377a799e73366806a88595ecfa00151ddfd256b79e2feeefa308"
+  },
+  {
+    "path": "aether_harbor/enemy_magic.py",
+    "sha256": "0e8a077c0557737653975adace66bfb1475b5d0cd6e8068d9b8446f1bb0c7bb4"
+  },
+  {
+    "path": "aether_harbor/fate.py",
+    "sha256": "5826b287d0ccfdfb5e4740070b1b04f84a1874002f4fec6c63f6d18fd6334a51"
+  },
+  {
+    "path": "aether_harbor/game_engine.py",
+    "sha256": "ebe32aca7ffcab62db6334687fe1b7a5f155ac364a7cbf497446f19002fb9333"
+  },
+  {
+    "path": "aether_harbor/grounding_auditor.py",
+    "sha256": "14045f45602279870e74ef73c3fd30962c732e952eaa67f8e137e4afdd5d2aa7"
+  },
+  {
+    "path": "aether_harbor/island_bank.py",
+    "sha256": "88767449021ac440aaf243d840850b5a25b233f7dd6baeec30df4a6650eb5a3a"
+  },
+  {
+    "path": "aether_harbor/island_context.py",
+    "sha256": "722bb99cf2fa0dc61637a84eaf911b0200831d580616e2401e736357c02cf33d"
+  },
+  {
+    "path": "aether_harbor/items.py",
+    "sha256": "647706a2a279d244c92a02a23e6fe62a69622bd60c6920fd41fbcdbc43fecbc4"
+  },
+  {
+    "path": "aether_harbor/local_games.py",
+    "sha256": "fdcceb3e3ca7cb95e62d5d36a0417f9a1344976d5d961c6a006444fad4ddeb19"
+  },
+  {
+    "path": "aether_harbor/local_model.py",
+    "sha256": "8e23d05206ac7c5fcc952a2288b2b4365d74e0b10bf65bb5e8a0ef1127c76ce0"
+  },
+  {
+    "path": "aether_harbor/loot_splitter.py",
+    "sha256": "4d3a82220303f6bbf609148aeec32a4912d9c1ac3fc6bd66b4e057b5d780f192"
+  },
+  {
+    "path": "aether_harbor/magic.py",
+    "sha256": "b32309f0823ceb074134a1630cf10979a8eefe4a8740b0ed80dcd6eabb5cf6d7"
+  },
+  {
+    "path": "aether_harbor/mechanics.py",
+    "sha256": "975c947d208f767b3cdf51438ae04d2b0f1fa5aae985dc8cf8e29881bb73a03c"
+  },
+  {
+    "path": "aether_harbor/movement.py",
+    "sha256": "a5636361996edcd942fc0f0782224c09b0c466470625be017858c2f40fe0ab62"
+  },
+  {
+    "path": "aether_harbor/npc_engine.py",
+    "sha256": "ab44578292c694bbc74f72d92ae132c640c83004a5130ae0b40251904d4fa25e"
+  },
+  {
+    "path": "aether_harbor/party.py",
+    "sha256": "00eb1c87e747ce9cdb222324e614340fb0b005c12c99c937fcbd99f62479e85d"
+  },
+  {
+    "path": "aether_harbor/party_runtime.py",
+    "sha256": "8069ae1be0f5f341888b6b0277c30a516f62cb44a384186c6dac970681e566cc"
+  },
+  {
+    "path": "aether_harbor/persistence.py",
+    "sha256": "1f0654081609bf3b172917ace4744c1e7d3dffa02639b03b06bbc01e64de049e"
+  },
+  {
+    "path": "aether_harbor/prompting.py",
+    "sha256": "05a30aafb2785a37f7d0c11f146fafefdbf688c7e637e7f5fae59ed0f7347f7a"
+  },
+  {
+    "path": "aether_harbor/provider_secrets.py",
+    "sha256": "4fd698820d4891a291d85d8248346595b3eede3343243aca7360ca2f8b1346ab"
+  },
+  {
+    "path": "aether_harbor/recap_secretary.py",
+    "sha256": "3d181291a5530b41fd8800e0c9037d017f971035f63a7181332059be0002ae8d"
+  },
+  {
+    "path": "aether_harbor/recovery.py",
+    "sha256": "9c677771ed27231294d023f256c8360e3ce695b343ad00b8fa1baa77faa2b7b1"
+  },
+  {
+    "path": "aether_harbor/risk_classifier.py",
+    "sha256": "178cfec0dc91c43da3a5fbbe033772cb80ca321925b66b074c0b193d7d4b5c42"
+  },
+  {
+    "path": "aether_harbor/room_memory.py",
+    "sha256": "9463246f639b13fc2643a1060312eab17625123dda878e3fecbad9f3be013d75"
+  },
+  {
+    "path": "aether_harbor/room_secretary.py",
+    "sha256": "df845ff24bb2e49505250fb776754b1c417727d12fa602493bc582ca32dfa722"
+  },
+  {
+    "path": "aether_harbor/scenarios.py",
+    "sha256": "1b01b43f502ff0d0dcf81f99812cb67a6b30b874894b0ddcc8688134e596a277"
+  },
+  {
+    "path": "aether_harbor/scene_pressure.py",
+    "sha256": "07238d61296d61b6cff7fe578ee89005b25b2e70c50c11978d48089058ab09a2"
+  },
+  {
+    "path": "aether_harbor/sealed_layout.py",
+    "sha256": "caf8e7cf5659878c92ee93c451ceb4d6394cf337420c7bd22fead9aee591a42b"
+  },
+  {
+    "path": "aether_harbor/secretary.py",
+    "sha256": "909002e2ca54ea7fa8c9f1b79f60e49e259d59af76d0f095ec599f31fdba9c8b"
+  },
+  {
+    "path": "aether_harbor/site_links.py",
+    "sha256": "a2b55fc4ff8ad6f1df0d7dec82090cb75d2d95090ec39abd00e96c18ce8be213"
+  },
+  {
+    "path": "aether_harbor/skirmish_resolution.py",
+    "sha256": "f6962a8e7e7c7b079be4b6313328e90a6bd810da74a46aee6208b37221b0c586"
+  },
+  {
+    "path": "aether_harbor/spatial_adjudication.py",
+    "sha256": "c762ec1e8736a2e6c7592384c9a5f07d3182cde0dd46d8d210e3f45f1a323351"
+  },
+  {
+    "path": "aether_harbor/spatial_scope.py",
+    "sha256": "a70ab16913d162f36635e5f485e3d649763c3ed609d28914b5a1548044849ebb"
+  },
+  {
+    "path": "aether_harbor/spatial_secretary.py",
+    "sha256": "5a4ba87f4c414053f58b7814247a9297a78f6c80e873011bb80edbac950ae039"
+  },
+  {
+    "path": "aether_harbor/spatial_trace.py",
+    "sha256": "d182250c46db5fefb3734130ce895f9bc354cc36c6843ee1466236017eef71f8"
+  },
+  {
+    "path": "aether_harbor/state.py",
+    "sha256": "d63d78db5d4d734b779ba40141cfd7d7b72c02cb75cf9cd528e5bfbec970d22f"
+  },
+  {
+    "path": "aether_harbor/state_curator.py",
+    "sha256": "5b63a0a3a4e1b2572249177ad50d9b0aeefb49b639d86dd0872d9d94e507b9a0"
+  },
+  {
+    "path": "aether_harbor/static/app.js",
+    "sha256": "e3a7008bf200e7aea21a904a017360479a76abe749a4fadbcf9b5f0623622fb5"
+  },
+  {
+    "path": "aether_harbor/static/index.html",
+    "sha256": "e863443b2a329809c4af1420a7298e09765961bbeb225723db4479ddd697fcdd"
+  },
+  {
+    "path": "aether_harbor/static/style.css",
+    "sha256": "e312d69fddc01c003e9d72c0bc8929f6bcc279a54e594ed3b3120d7b56bea622"
+  },
+  {
+    "path": "aether_harbor/stealth.py",
+    "sha256": "35e15c179869f753c61bd26e3cb1ff77a4d4f4568f29d4211c4d06dfb06a38ee"
+  },
+  {
+    "path": "aether_harbor/turn_engine.py",
+    "sha256": "e25b8be60e35b7847e267d684c48d40c9f0559d64c2a36036e40a44af93e98f7"
+  },
+  {
+    "path": "aether_harbor/voyage.py",
+    "sha256": "5b4549886ac64011b7bf06ea966830dcffc74e72bebad3c7d2f0eb5f798a4d0b"
+  },
+  {
+    "path": "aether_harbor/web_server.py",
+    "sha256": "ec6c4ca7d6e5630de7b03606be77bfff23663ab2ef33c9efa1f9410070edf18d"
+  },
+  {
+    "path": "data/aether_books.json",
+    "sha256": "9d38d4dc5786040d41603bad6dc86f6bf754cb84255d31c940ab4c947adf7796"
+  },
+  {
+    "path": "data/authored_islands.json",
+    "sha256": "8041be47bf7c033d0435df6bf2389c2cd7e91d763343490dbb4ef56e47095c07"
+  },
+  {
+    "path": "deploy/cloud_saves.sql",
+    "sha256": "1dce1c3c109c536b02d1dd186236abd6411e6c8d48e95cc76b5d601a83ede75e"
+  },
+  {
+    "path": "requirements.txt",
+    "sha256": "9ea41ce015b211e7d5dab95fca7bed2821136f4a235702d59c4f52c1e26b36fb"
+  },
+  {
+    "path": "run_web_server.py",
+    "sha256": "5857069ece85ce5e8a709fa68766938366591124468d615d62462349657680e9"
+  },
+  {
+    "path": "settings.json",
+    "sha256": "ffc1f555ee9ce65e3f055052dd20a97ece40e46fe15fe023fd5400dc4e2f7aa7"
+  }
+]
