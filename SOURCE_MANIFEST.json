@@ -25,7 +25,7 @@
   },
   {
     "path": "aether_harbor/cascading_model.py",
-    "sha256": "e3b1eaf80316ccf0863921d5b8c8f4fd6c9a3327c06854d92c72abb1d5d48cd0"
+    "sha256": "f3d5f302e5a4862c324ed46ed294346a30f38199acb72debdd6d4949655b4f8e"
   },
   {
     "path": "aether_harbor/celestial_spheres.py",
@@ -49,7 +49,7 @@
   },
   {
     "path": "aether_harbor/game_engine.py",
-    "sha256": "c1d169b2817882f5b073238a062357c81cc703efd9e34c734fab5b3df6741c49"
+    "sha256": "bd4df1ff6097790ed590dd190c3230cb39edcd897f1f05e5f2e626a6e9452756"
   },
   {
     "path": "aether_harbor/grounding_auditor.py",
@@ -105,7 +105,7 @@
   },
   {
     "path": "aether_harbor/persistence.py",
-    "sha256": "1f0654081609bf3b172917ace4744c1e7d3dffa02639b03b06bbc01e64de049e"
+    "sha256": "234b566221b5f79dabdee9a7d1392abd6a7362c805f208186d6600ac449350d6"
   },
   {
     "path": "aether_harbor/prompting.py",
@@ -185,15 +185,15 @@
   },
   {
     "path": "aether_harbor/static/app.js",
-    "sha256": "19f3bf6e1f8147cc749abf6ba5bcfb4f4b91dbdb105f92e10ff0aa3390e74cab"
+    "sha256": "17b22eae42658ad8b7844237054ad8fffe058ba4d60d82029084f9f417d22b2c"
   },
   {
     "path": "aether_harbor/static/index.html",
-    "sha256": "50519810544919530d77168583636fcf74983d8cc40baf3f60245694b4fa0721"
+    "sha256": "a77950fa6143b1d7046eca9a4c6250495b410cd2a1a75676ff2106803976124d"
   },
   {
     "path": "aether_harbor/static/style.css",
-    "sha256": "80e34a4717c1718150246244578565dfcbe7eab2523bc231fc701537b4d45f7b"
+    "sha256": "0b551017cb7d0a00561728633dcf2604983777fa07a5ab76a88693c564804137"
   },
   {
     "path": "aether_harbor/stealth.py",
@@ -209,7 +209,7 @@
   },
   {
     "path": "aether_harbor/web_server.py",
-    "sha256": "ec6c4ca7d6e5630de7b03606be77bfff23663ab2ef33c9efa1f9410070edf18d"
+    "sha256": "5fe28e7f87eb4390f5ba32664ab5091fe3324f2f41ff415c392ec4439684d339"
   },
   {
     "path": "data/aether_books.json",
