@@ -185,11 +185,11 @@
   },
   {
     "path": "aether_harbor/static/app.js",
-    "sha256": "17b22eae42658ad8b7844237054ad8fffe058ba4d60d82029084f9f417d22b2c"
+    "sha256": "3cdbcfd9fe833e88d09b294a57a72e19902c36ed9849122cc8db86e8f0d75e0d"
   },
   {
     "path": "aether_harbor/static/index.html",
-    "sha256": "a77950fa6143b1d7046eca9a4c6250495b410cd2a1a75676ff2106803976124d"
+    "sha256": "e2ee47947b122b0288f5d453a0ecf3d202d840dc564b52255bfd54a307203fff"
   },
   {
     "path": "aether_harbor/static/style.css",
