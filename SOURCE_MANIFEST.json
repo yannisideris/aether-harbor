@@ -49,11 +49,11 @@
   },
   {
     "path": "aether_harbor/game_engine.py",
-    "sha256": "bd4df1ff6097790ed590dd190c3230cb39edcd897f1f05e5f2e626a6e9452756"
+    "sha256": "a0d4567700ec4a90ae02a6bae88658d8bf2c2514073186fc79df1f9d1e678fcd"
   },
   {
     "path": "aether_harbor/grounding_auditor.py",
-    "sha256": "14045f45602279870e74ef73c3fd30962c732e952eaa67f8e137e4afdd5d2aa7"
+    "sha256": "dae88c18b01c47430b1cb01653d7fbbcdf6640ce76be2c60c709ef3fa2f8b769"
   },
   {
     "path": "aether_harbor/island_bank.py",
@@ -77,7 +77,7 @@
   },
   {
     "path": "aether_harbor/loot_splitter.py",
-    "sha256": "4d3a82220303f6bbf609148aeec32a4912d9c1ac3fc6bd66b4e057b5d780f192"
+    "sha256": "e9af094ee605dcb87b503f9186b54c5ea04fbc619e37fe5b4cf84301e621d15d"
   },
   {
     "path": "aether_harbor/magic.py",
@@ -89,7 +89,7 @@
   },
   {
     "path": "aether_harbor/movement.py",
-    "sha256": "a5636361996edcd942fc0f0782224c09b0c466470625be017858c2f40fe0ab62"
+    "sha256": "44862875a9bc995028c2845dcf6074ce7ce7b94b39a28084e174a61064b284c7"
   },
   {
     "path": "aether_harbor/npc_engine.py",
@@ -125,7 +125,7 @@
   },
   {
     "path": "aether_harbor/risk_classifier.py",
-    "sha256": "178cfec0dc91c43da3a5fbbe033772cb80ca321925b66b074c0b193d7d4b5c42"
+    "sha256": "111b0826278d871d6973c597b2a77f2a365bfce3ac19b753ae3f20393294a28c"
   },
   {
     "path": "aether_harbor/room_memory.py",
@@ -169,7 +169,7 @@
   },
   {
     "path": "aether_harbor/spatial_secretary.py",
-    "sha256": "5a4ba87f4c414053f58b7814247a9297a78f6c80e873011bb80edbac950ae039"
+    "sha256": "cd1fa1560ccfdd84bf06050f27005714b7d77223a83264dcb02d4aa28df51ef5"
   },
   {
     "path": "aether_harbor/spatial_trace.py",
@@ -189,7 +189,7 @@
   },
   {
     "path": "aether_harbor/static/index.html",
-    "sha256": "e2ee47947b122b0288f5d453a0ecf3d202d840dc564b52255bfd54a307203fff"
+    "sha256": "aad918e070d93c7f633fb6270d434ba5bfa144680586ee2caed33c3577875a7c"
   },
   {
     "path": "aether_harbor/static/style.css",
@@ -201,7 +201,7 @@
   },
   {
     "path": "aether_harbor/turn_engine.py",
-    "sha256": "e25b8be60e35b7847e267d684c48d40c9f0559d64c2a36036e40a44af93e98f7"
+    "sha256": "3ea3cf9257c34fe11bbb89e7585ffcca8427df3e3acfbf573bd0cb6638f77e21"
   },
   {
     "path": "aether_harbor/voyage.py",
@@ -229,7 +229,7 @@
   },
   {
     "path": "run_web_server.py",
-    "sha256": "5857069ece85ce5e8a709fa68766938366591124468d615d62462349657680e9"
+    "sha256": "55082c59c3e548742b878fb8b4fcc9901ef0e37a8b0e2d59775af21aad0288eb"
   },
   {
     "path": "settings.json",

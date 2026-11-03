@@ -1,7 +1,10 @@
 # Aether Harbor
 
-The v.40 browser edition, preserving the v.39 game rules and world.
-Python/FastAPI server with streaming narration and separate player campaigns.
+The v.42 Web/Render edition builds on the deployed v40.7 browser runtime.
+The v.41 gameplay fixes separate inventory stacks from mixed loot, reconcile
+newly counted silver, preserve the exterior anchor on a successful escape,
+and normalize a bounded site's entry room before plan refinement.
+The risk judge and independent referee still run through the hosted cascade.
 
 ## Hosting
 
