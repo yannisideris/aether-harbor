@@ -4,6 +4,10 @@ The v.42 Web/Render edition builds on the deployed v40.7 browser runtime.
 The v.41 gameplay fixes separate inventory stacks from mixed loot, reconcile
 newly counted silver, preserve the exterior anchor on a successful escape,
 and normalize a bounded site's entry room before plan refinement.
+The 6 November follow-up lets stealth obey the semantic roll verdict and carry
+a judged stealthy move, credits grounded loose coins as silver, reconciles a
+scheduled take, keeps cover positions out of site names and stops placeholder
+combat targets from inventing opponents.
 The risk judge and independent referee still run through the hosted cascade.
 
 ## Hosting
