@@ -12,6 +12,10 @@ The 7 November update keeps an engaged undertaking alive where it is pursued,
 lets any kind of story become one (no keyword gate), adds a sparse off-screen
 world clock, stops employers being recruited as companions, and no longer ties
 a different building to the exterior of the site the player just left.
+The 8 November update makes island voyages playable end to end (spoken island
+names, multi-fare and bargained fares, storm tactics with rolls, no charge for
+refused payments), plans fuller island maps from authored places, keeps island
+walks on the island, and varies how scenes close.
 The risk judge and independent referee still run through the hosted cascade.
 
 ## Hosting

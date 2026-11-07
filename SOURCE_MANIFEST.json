@@ -13,7 +13,7 @@
   },
   {
     "path": "aether_harbor/app.py",
-    "sha256": "8a113bd533f0a35c9ede2652530763702913b1035b61c3c409581a4195c047ca"
+    "sha256": "c717f140b573a52dcfcfe2c47dea297fec2f8095e1144d5772fc810e96a3541e"
   },
   {
     "path": "aether_harbor/books.py",
@@ -49,15 +49,15 @@
   },
   {
     "path": "aether_harbor/game_engine.py",
-    "sha256": "cb992cd54bf8d52f92cd0f098769ae87917c43a2e8fc79b57903179fd9727421"
+    "sha256": "2eb4040a4954925cab7121be1c987c64be1c2ce67a5cbf772cba3279647fd738"
   },
   {
     "path": "aether_harbor/grounding_auditor.py",
-    "sha256": "dae88c18b01c47430b1cb01653d7fbbcdf6640ce76be2c60c709ef3fa2f8b769"
+    "sha256": "6dc79a493d3853100fc85e44cfed876a51d6c73ed55eb71c602f6a5d446adb97"
   },
   {
     "path": "aether_harbor/island_bank.py",
-    "sha256": "88767449021ac440aaf243d840850b5a25b233f7dd6baeec30df4a6650eb5a3a"
+    "sha256": "663ec943c279b35f06f523bfafc4ec5464606edbbb2954a6e198872d2425fc6b"
   },
   {
     "path": "aether_harbor/island_context.py",
@@ -89,7 +89,7 @@
   },
   {
     "path": "aether_harbor/movement.py",
-    "sha256": "40df90e2b6682a9c3d0f1b1aa9e0a1a014fb70b86386943598d6831b28da7a12"
+    "sha256": "cd02524ccdec1bbd766d6bb64bd36749ffbd5e77da8c0e2f3749afc27463e050"
   },
   {
     "path": "aether_harbor/npc_engine.py",
@@ -109,7 +109,7 @@
   },
   {
     "path": "aether_harbor/prompting.py",
-    "sha256": "5f321bf4d730c3371c967c34da825864d607a48391fa2a232d0c7f6e1b44df26"
+    "sha256": "296d9eafc9d38b4e2225e5a7567981c7a9f172f8405db392d3c7d62ffe534871"
   },
   {
     "path": "aether_harbor/provider_secrets.py",
@@ -125,7 +125,7 @@
   },
   {
     "path": "aether_harbor/risk_classifier.py",
-    "sha256": "48c16d3f2315199e0b51290431b8bfe923c02ff1a13f805d59d58d54fab7ff31"
+    "sha256": "206fc190872602bff4fcd1ea071e5e1094d2bbb5c4604fe65dd8d7616fd13228"
   },
   {
     "path": "aether_harbor/room_memory.py",
@@ -169,7 +169,7 @@
   },
   {
     "path": "aether_harbor/spatial_secretary.py",
-    "sha256": "9aca52f7ff88ef5a803974c23db97ac2a54e2fee7c5548aab84b32241b286f48"
+    "sha256": "24831b027495055650f3931adfa256911682ab5a610ec4ca9271837e4d7bdcd2"
   },
   {
     "path": "aether_harbor/spatial_trace.py",
@@ -205,7 +205,7 @@
   },
   {
     "path": "aether_harbor/voyage.py",
-    "sha256": "5b4549886ac64011b7bf06ea966830dcffc74e72bebad3c7d2f0eb5f798a4d0b"
+    "sha256": "bea58a58cd9786a1b6d8afab6aa486f34b14ec026a0f668affbea37677b85f5f"
   },
   {
     "path": "aether_harbor/world_clock.py",
