@@ -8,6 +8,10 @@ The 6 November follow-up lets stealth obey the semantic roll verdict and carry
 a judged stealthy move, credits grounded loose coins as silver, reconciles a
 scheduled take, keeps cover positions out of site names and stops placeholder
 combat targets from inventing opponents.
+The 7 November update keeps an engaged undertaking alive where it is pursued,
+lets any kind of story become one (no keyword gate), adds a sparse off-screen
+world clock, stops employers being recruited as companions, and no longer ties
+a different building to the exterior of the site the player just left.
 The risk judge and independent referee still run through the hosted cascade.
 
 ## Hosting
